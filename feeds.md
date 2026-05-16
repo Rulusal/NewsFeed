@@ -1,800 +1,800 @@
 
-[A new version of ICT](https://www.logicmatters.net/2026/05/14/a-new-version-of-ict/)
+[Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming](https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html)
 ---
 
-Blog - Logic Matters --- 5/14/2026
+The Hacker News --- 5/16/2026
 
-The end is in sight. I have just uploaded another PDF of Introducing Category Theory (now identified as Version 3.4 on the verso of the title page — you might need to clear your brower’s cache to force a download of the latest, greatest, version)....
+A critical security vulnerability impacting the  Funnel Builder  plugin for WordPress has come under active exploitation in the wild to  inject malicious JavaScript code  into WooCommerce checkout pages with the goal of stealing payment...
 
 
-[Prediction Markets Redux](https://blog.computationalcomplexity.org/feeds/284448375668823016/comments/default)
+[Turla Turns Kazuar Backdoor Into Modular P2P Botnet for Persistent Access](https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html)
 ---
 
-Computational Complexity --- 5/14/2026
+The Hacker News --- 5/15/2026
 
-For those very long-time readers this blog extensively covered prediction markets from 2006 to 2008. In a prediction market, you have a future event, such as the winner of an election, and a market that pays off one dollar if that event happens and...
+The Russian state-sponsored hacking group known as      Turla    has transformed its custom backdoor Kazuar into a modular peer-to-peer (P2P) botnet that's engineered for stealth and persistent access to compromised hosts.  Turla, per the...
 
 
-[Double Maths First Thing: Issue 58](https://aperiodical.com/2026/05/double-maths-first-thing-issue-58/)
+[Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence](https://thehackernews.com/2026/05/four-openclaw-flaws-enable-data-theft.html)
 ---
 
-The Aperiodical --- 5/13/2026
+The Hacker News --- 5/15/2026
 
-Double Maths First Thing is petitioning the weather to be nicer Hello! My name is Colin and I am a mathematician on a mission to spread joy and delight in all things mathematical. I had a nice “oho!” moment in class with a student today looking at...
+Cybersecurity researchers have disclosed a set of four security flaws in OpenClaw that could be chained to achieve data theft, privilege escalation, and persistence.  The vulnerabilities, collectively dubbed      Claw Chain    by Cyera, can...
 
 
-[The text is not the product](https://crookedtimber.org/2026/05/12/the-text-is-not-the-product/)
+[What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface](https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html)
 ---
 
-Crooked Timber --- 5/12/2026
+The Hacker News --- 5/15/2026
 
-Academics, especially in the humanities, produce texts, and they teach students to produce text. This is a standard assumption, often taken for granted, and maybe not too surprising in times in which productivity is a supreme social norm. Think of...
+In Your Biggest Security Risk Isn't Malware — It's What You Already Trust, we made a simple argument: the most dangerous activity inside most organizations no longer looks like an attack. It looks like administration. PowerShell, WMIC, netsh,...
 
 
-[Searches Are Weird! No they're not! Bad coding style?](https://blog.computationalcomplexity.org/feeds/8403928404492756431/comments/default)
+[TanStack Supply Chain Attack Hits Two OpenAI Employee Devices, Forces macOS Updates](https://thehackernews.com/2026/05/tanstack-supply-chain-attack-hits-two.html)
 ---
 
-Computational Complexity --- 5/11/2026
+The Hacker News --- 5/15/2026
 
-In David Marcus's guest post on good coding style (see here)  he reviewed a book from 1986 called "Professional Pascal."I wondered if it was still in print and could be bought:1) I went to Amazon and searched all products for Professional Pascal....
+OpenAI has disclosed that two of its employee devices in its corporate environment were impacted via the Mini Shai-Hulud supply chain attack on TanStack, but noted that no user data, production systems, or intellectual property were compromised or...
 
 
-[From The People’s Bank to the Banker’s Bank](https://crookedtimber.org/2026/05/11/from-the-peoples-bank-to-the-bankers-bank/)
+[On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email](https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html)
 ---
 
-Crooked Timber --- 5/11/2026
+The Hacker News --- 5/15/2026
 
-Last week Australia’s central bank (Reserve Bank of Australia, RBA) raised interest rates. Again. Political economists have been talking for decades about the RBA’s tendency to redistribute wealth from the bottom upwards. But now it seems most...
+Microsoft has disclosed a new security vulnerability impacting on-premise versions of Exchange Server that it said has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-42897 (CVSS score: 8.1), has been described as...
 
 
-[Sunday photoblogging: Pézenas, maison consulaire](https://crookedtimber.org/2026/05/10/sunday-photoblogging-pezenas-maison-consulaire/)
+[CISA Adds Cisco SD-WAN CVE-2026-20182 to KEV After Admin Access Exploits](https://thehackernews.com/2026/05/cisa-adds-cisco-sd-wan-cve-2026-20182.html)
 ---
 
-Crooked Timber --- 5/10/2026
+The Hacker News --- 5/15/2026
 
+The U.S.Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a newly disclosed vulnerability impacting Cisco Catalyst SD-WAN Controller to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive...
 
 
-
-[On the mathematical abilities of LLMs](https://www.logicmatters.net/2026/05/09/on-the-mathematical-abilities-of-llms/)
+[Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access](https://thehackernews.com/2026/05/cisco-catalyst-sd-wan-controller-auth.html)
 ---
 
-Blog - Logic Matters --- 5/9/2026
+The Hacker News --- 5/14/2026
 
-A very interesting new blog post by Tim Gowers on his recent experiences with ChatGPT 5.5 Pro. A headline: “I would judge the level of the result that ChatGPT found in under two hours to be that of a perfectly reasonable chapter in a combinatorics...
+Cisco has released updates to address a maximum-severity authentication bypass flaw in Catalyst SD-WAN Controller that it said has been exploited in limited attacks. The vulnerability, tracked as CVE-2026-20182, carries a CVSS score of 10.0. "A...
 
 
-[Another categorical update](https://www.logicmatters.net/2026/05/07/another-categorical-update/)
+[Stealer Backdoor Found in 3 Node-IPC Versions Targeting Developer Secrets](https://thehackernews.com/2026/05/stealer-backdoor-found-in-3-node-ipc.html)
 ---
 
-Blog - Logic Matters --- 5/7/2026
+The Hacker News --- 5/14/2026
 
-The Victorian floor of my tiny study slopes and dips quite badly and it would have been expensive to engineer a flat, level, surface. So, to finish the redecoration, it has had to be new carpet. No majolica tiles for me. Not like this one (now in...
+Cybersecurity researchers are sounding the alarm about what has been described as "malicious activity" in newly published versions of node-ipc. According to Socket and StepSecurity, three different versions of the npm package have been confirmed as...
 
 
-[When do we know someone has died](https://blog.computationalcomplexity.org/feeds/5765663734832993249/comments/default)
+[ThreatsDay Bulletin: PAN-OS RCE, Mythos cURL Bug, AI Tokenizer Attacks, and 10+ Stories](https://thehackernews.com/2026/05/threatsday-bulletin-pan-os-rce-mythos.html)
 ---
 
-Computational Complexity --- 5/6/2026
+The Hacker News --- 5/14/2026
 
-As the blog of record in computational complexity, we like to bring attention to those in the community who have left us. When we learn of someone in our field who has died, Bill and I will talk to each other and decide whether we should do a...
+Everything is still on fire. This week feels dumb in the worst way — bad links, weak checks, fake help desks, shady forum posts, and people turning supply chain attacks into some cursed little game for clout and cash. Half of it feels new. Half of...
 
 
-[Double Maths First Thing: Issue 57](https://aperiodical.com/2026/05/double-maths-first-thing-issue-57/)
+[Ghostwriter Targets Ukrainian Government With Geofenced PDF Phishing, Cobalt Strike](https://thehackernews.com/2026/05/ghostwriter-targets-ukrainian.html)
 ---
 
-The Aperiodical --- 5/6/2026
+The Hacker News --- 5/14/2026
 
-Double Maths First Thing has Youri Tielemans in swaps Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight of figuring stuff out. I’ve been thinking a lot about MathsJam and Parkrun and similar activities,...
+The Belarus-aligned threat group known as Ghostwriter has been attributed to a fresh set of attacks targeting governmental organizations in Ukraine. Active since at least 2016, Ghostwriter has been linked to both cyber espionage and influence...
 
 
-[A few notes on Michael Rabin](https://blog.computationalcomplexity.org/feeds/754334843781792109/comments/default)
+[PraisonAI CVE-2026-44338 Auth Bypass Targeted Within Hours of Disclosure](https://thehackernews.com/2026/05/praisonai-cve-2026-44338-auth-bypass.html)
 ---
 
-Computational Complexity --- 5/4/2026
+The Hacker News --- 5/14/2026
 
-Michael Rabin passed away on April 14,2026. I blogged about him here. My post listed results of his that proved upper and lower bounds on problems. My point was that he proved upper and lower bounds for MANY different levels- from decidable to...
+Threat actors have been observed attempting to exploit a recently disclosed security vulnerability in PraisonAI, an open-source multi-agent orchestration framework, within four hours of its public disclosure. The vulnerability in question is...
 
 
-[Sunday photoblogging: Canigou and cherry trees](https://crookedtimber.org/2026/05/03/sunday-photoblogging-canigou-and-cherry-trees/)
+[How AI Hallucinations Are Creating Real Security Risks](https://thehackernews.com/2026/05/how-ai-hallucinations-are-creating-real.html)
 ---
-
-Crooked Timber --- 5/3/2026
 
+The Hacker News --- 5/14/2026
 
+AI hallucinations are introducing serious security risks into critical infrastructure decision-making by exploiting human trust through highly confident yet incorrect outputs. When an AI model lacks certainty, it doesn’t have a mechanism to...
 
 
-[Categorical update](https://www.logicmatters.net/2026/05/02/categorical-update/)
+[Windows Zero-Days Expose BitLocker Bypasses And CTFMON Privilege Escalation](https://thehackernews.com/2026/05/windows-zero-days-expose-bitlocker.html)
 ---
 
-Blog - Logic Matters --- 5/2/2026
+The Hacker News --- 5/14/2026
 
-I am still working again through the third edition of the category theory book, correcting typos in the first printed version (fortunately, relatively few are possibly misleading), correcting thinkos (cheeringly not many), rewording a few...
+An anonymous cybersecurity researcher who disclosed three Microsoft Defender vulnerabilities has returned with two more zero-days involving a BitLocker bypass and a privilege escalation impacting Windows Collaborative Translation Framework...
 
 
-[Quantum Mechanics of the Inverse Cube Force Law](https://golem.ph.utexas.edu/category/2026/04/the_quantum_mechanics_of_the_i.html)
+[New Fragnesia Linux Kernel LPE Grants Root Access via Page Cache Corruption](https://thehackernews.com/2026/05/new-fragnesia-linux-kernel-lpe-grants.html)
 ---
 
-The n-Category Café --- 5/2/2026
+The Hacker News --- 5/14/2026
 
-In the last episode of my column in Notices of the American Mathematical Society, we looked at a particle moving in an attractive central force whose strength is proportional to the inverse cube of the distance from the origin....
+Details have emerged about a new variant of the recent Dirty Frag Linux local privilege escalation (LPE) vulnerability that allows local attackers to gain root access, making it the third such bug to be identified in the kernel within a span of two...
 
 
-[Carnival of Maths 251](https://aperiodical.com/2026/05/carnival-of-maths-251/)
+[18-Year-Old NGINX Rewrite Module Flaw Enables Unauthenticated RCE](https://thehackernews.com/2026/05/18-year-old-nginx-rewrite-module-flaw.html)
 ---
 
-The Aperiodical --- 5/1/2026
+The Hacker News --- 5/14/2026
 
-The next issue of the Carnival of Mathematics, rounding up blog posts from the month of April 2026, is now online courtesy of Karrie Liu. The Carnival rounds up maths blog posts from all over the internet, including some from our own Aperiodical....
+Cybersecurity researchers have disclosed multiple security vulnerabilities impacting NGINX Plus and NGINX Open, including a critical flaw that remained undetected for 18 years. The vulnerability, discovered by depthfirst, is a heap buffer overflow...
 
 
-[Because It Doesn't Have To](https://blog.computationalcomplexity.org/feeds/9125418320439922410/comments/default)
+[Microsoft's MDASH AI System Finds 16 Windows Flaws Fixed in Patch Tuesday](https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html)
 ---
 
-Computational Complexity --- 4/29/2026
+The Hacker News --- 5/13/2026
 
-My favorite quote about networking came from Jim Kurose. The Internet works so well because it doesn't have to. The IP and lower layers of the internet stack make no promises of delivery. Complete failure fulfills the protocol. This allows for...
+Microsoft has unveiled a new multi-model artificial intelligence (AI)-driven system called MDASH to facilitate vulnerability discovery and remediation at scale, adding that it's being tested by some customers as part of a limited private...
 
 
-[CKKS — Polynomials, the Canonical Embedding, and Encoding](https://www.jeremykun.com/2026/04/29/ckks-polynomials-the-canonical-embedding-and-encoding/)
+[Azerbaijani Energy Firm Hit by Repeated Microsoft Exchange Exploitation](https://thehackernews.com/2026/05/azerbaijani-energy-firm-hit-by-repeated.html)
 ---
 
-Math ∩ Programming --- 4/29/2026
+The Hacker News --- 5/13/2026
 
-Table of Contents In this tutorial series, I will introduce the CKKS homomorphic encryption scheme from the ground up, in rather intricate detail. Each article in this series corresponds to a pull request on a GitHub repository. The code for this...
+A threat actor with affiliations to China has been linked to a "multi-wave intrusion" targeting an unnamed Azerbaijani oil and gas company between late December 2025 and late February 2026, marking an expansion of its targeting. The activity has...
 
 
-[Double Maths First Thing: Issue 56](https://aperiodical.com/2026/04/double-maths-first-thing-issue-56/)
+[[Webinar] How Modern Attack Paths Cross Code, Pipelines, and Cloud](https://thehackernews.com/2026/05/webinar-why-your-appsec-tools-miss.html)
 ---
 
-The Aperiodical --- 4/29/2026
+The Hacker News --- 5/13/2026
 
-Double Maths First Thing no longer runs marathons. Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight of doing maths, figuring things out and generally taking pleasure in doing clever things. Like everyone...
+TL;DR: Stop chasing thousands of "toast" alerts. Join experts from Wiz to learn how hackers connect tiny flaws to build a "Lethal Chain" to your data—and how to break it. Register for the Strategic Briefing Here. Most security tools work like a...
 
 
-[Review: Huge Numbers by Richard Elwes](https://aperiodical.com/2026/04/review-huge-numbers-by-richard-elwes/)
+[Most Remediation Programs Never Confirm the Fix Actually Worked](https://thehackernews.com/2026/05/most-remediation-programs-never-confirm.html)
 ---
 
-The Aperiodical --- 4/28/2026
+The Hacker News --- 5/13/2026
 
-There’s a story about a child mathematician talking to an older mathematician and saying “I think the biggest number is a TRILLION.” The grown-up says “OK, but what about a trillion and one?” The child mathematician looks crestfallen, but only for...
+Security teams have never had better visibility into their environments and never been worse at confirming what they fix stays fixed. Mandiant's M-Trends 2026 report puts the mean time to exploit at an estimated negative seven days. The Verizon...
 
 
-[Occasional paper: Blue Angels, Devil Hands](https://crookedtimber.org/2026/04/28/occasional-paper-blue-angels-devil-hands/)
+[Microsoft Patches 138 Vulnerabilities, Including DNS and Netlogon RCE Flaws](https://thehackernews.com/2026/05/microsoft-patches-138-vulnerabilities.html)
 ---
 
-Crooked Timber --- 4/28/2026
+The Hacker News --- 5/13/2026
 
-That’s the actual name of the paper. Isn’t that great? Here’s a prologue: a post I wrote a while back about the Portuguese Man-o’-War. (It’s kind of long — I was new to CT back then, and still figuring stuff out). To summarize: the Portuguese...
+Microsoft on Tuesday released patches for 138 security vulnerabilities spanning its product portfolio, although none of them have been listed as publicly known or under active attack. Of the 138 flaws, 30 are rated Critical, 104 are rated...
 
 
-[LEAPing into the Future of Coding](https://blog.computationalcomplexity.org/feeds/1407202525957220168/comments/default)
+[GemStuffer Abuses 150+ RubyGems to Exfiltrate Scraped U.K. Council Portal Data](https://thehackernews.com/2026/05/gemstuffer-abuses-150-rubygems-to.html)
 ---
 
-Computational Complexity --- 4/26/2026
+The Hacker News --- 5/13/2026
 
-A few months ago in Oxford, Bernard Sufrin, an emeritus fellow, said he's looking to hire a student to implement LEAP (Logic Engine for Argument by Pointing), a way to teach logic by proving basic logic theorems via pointing and clicking. Rahul...
+Cybersecurity researchers are calling attention to a new campaign dubbed GemStuffer that has targeted the RubyGems repository with more than 150 gems that use the registry as a data exfiltration channel rather than for malware distribution. "The...
 
 
-[Sunday photoblogging: l’Abbaye de Valmagne](https://crookedtimber.org/2026/04/26/sunday-photoblogging-labbaye-de-valmagne/)
+[Android Adds Intrusion Logging for Sophisticated Spyware Forensics](https://thehackernews.com/2026/05/android-adds-intrusion-logging-for.html)
 ---
 
-Crooked Timber --- 4/26/2026
+The Hacker News --- 5/13/2026
 
+Google on Tuesday unveiled a new opt-in Android feature called Intrusion Logging for storing forensic logs to better analyze sophisticated spyware attacks. Intrusion Logging, available as part of Advanced Protection Mode, enables "persistent and...
 
 
-
-[On Reinforcing Cynicism in the Academy](https://crookedtimber.org/2026/04/24/on-reinforcing-cynicism-in-the-academy/)
+[New Exim BDAT Vulnerability Exposes GnuTLS Builds to Potential Code Execution](https://thehackernews.com/2026/05/new-exim-bdat-vulnerability-exposes.html)
 ---
 
-Crooked Timber --- 4/24/2026
+The Hacker News --- 5/12/2026
 
-“I admire the many federal prosecutors across the country who have chosen to resign rather than carry out illegal or immoral orders. To my knowledge, no department head, dean, or other administrator at Texas A&M has taken any meaningful action to...
+Exim has released security updates to address a severe security issue affecting certain configurations that could enable memory corruption and potential code execution. Exim is an open-source Mail Transfer Agent (MTA) designed for Unix-like systems...
 
 
-[A potentialist perspective on ultrafinitism, Ohio University](https://jdh.hamkins.org/a-potentialist-perspective-on-ultrafinitism-ohio-university/)
+[RubyGems Suspends New Signups After Hundreds of Malicious Packages Are Uploaded](https://thehackernews.com/2026/05/rubygems-suspends-new-signups-after.html)
 ---
 
-Joel David Hamkins --- 4/23/2026
+The Hacker News --- 5/12/2026
 
-This will be a talk for the Philosophy Department Colloquium at Ohio University in Athens, OH on April 30th, 2026. I am very grateful for the invitation. A potentialist perspective on ultrafinitism, Ohio University Abstract. Ultrafinitism is the...
+RubyGems, the standard package manager for the Ruby programming language, has temporarily paused account sign ups following what has been described as a "major malicious attack." "We're dealing with a major malicious attack on RubyGems right now,"...
 
 
-[Michael Rabin Passed Away on April 14, 2026, at the age of 94](https://blog.computationalcomplexity.org/feeds/5742718346164240539/comments/default)
+[New TrickMo Variant Uses TON C2 and SOCKS5 to Create Android Network Pivots](https://thehackernews.com/2026/05/new-trickmo-variant-uses-ton-c2-and.html)
 ---
 
-Computational Complexity --- 4/23/2026
+The Hacker News --- 5/12/2026
 
-Michael Rabin passed away on April 14, 2026 at the age of 94. (Scott Aaronson has also blogged about his passing, see  here.) I had many points to make about him; however, the first one got so long that I will just do that one for today's blog...
+Cybersecurity researchers have flagged a new version of the TrickMo Android banking trojan that uses The Open Network (TON) for command-and-control (C2). The new variant, observed by ThreatFabric between January and February 2026, has been observed...
 
 
-[Double Maths First Thing: Issue 55](https://aperiodical.com/2026/04/double-maths-first-thing-issue-55/)
+[Webinar: What the Riskiest SOC Alerts Go Unanswered - and How Radiant Security Can Help](https://thehackernews.com/2026/05/webinar-what-riskiest-soc-alerts-go.html)
 ---
 
-The Aperiodical --- 4/22/2026
+The Hacker News --- 5/12/2026
 
-Double Maths First Thing: Northerly 3-5, moderate, fair, good, some kraken later. Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight of doing maths, solving puzzles, and making the world a better place. I’m...
+Why do the Riskiest SOC Alerts Go Unanswered? Security operations teams are drowning in alerts. But the real problem isn't always alert volume; it's the blind spots. The most dangerous alerts are the ones no one is investigating. A recent report...
 
 
-[Occasional paper:  Inconstant moon](https://crookedtimber.org/2026/04/20/occasional-paper-inconstant-moon/)
+[Mini Shai-Hulud Worm Compromises TanStack, Mistral AI, Guardrails AI & More Packages](https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html)
 ---
 
-Crooked Timber --- 4/20/2026
+The Hacker News --- 5/12/2026
 
-I said a while back that nobody’s going to Mars any time soon. Which is true. But that doesn’t mean Mars isn’t interesting! Mars is very interesting. So today’s paper is about Mars. Okay, it’s about a moon of Mars. TLDR: one of Mars’ moons may...
+TeamPCP, the threat actor behind the recentsupply chain attack spree, has been linked to the compromise of the npm and PyPI packages from TanStack, UiPath, Mistral AI, OpenSearch, and Guardrails AI as part of a fresh Mini Shai-Hulud campaign. The...
 
 
-[Sunday photoblogging: Pézenas street](https://crookedtimber.org/2026/04/19/sunday-photoblogging-pezenas-street/)
+[Why Agentic AI Is Security's Next Blind Spot](https://thehackernews.com/2026/05/why-agentic-ai-is-securitys-next-blind.html)
 ---
-
-Crooked Timber --- 4/19/2026
 
+The Hacker News --- 5/12/2026
 
+Agentic AI is already running in production environments across many organizations today. It is executing tasks, consuming data, and taking actions — most likely without meaningful involvement from the security team. The industry conversation has...
 
 
-[Categorically diverted](https://www.logicmatters.net/2026/04/19/categorically-diverted/)
+[Instructure Reaches Ransom Agreement with ShinyHunters to Stop 3.65TB Canvas Leak](https://thehackernews.com/2026/05/instructure-reaches-ransom-agreement.html)
 ---
 
-Blog - Logic Matters --- 4/19/2026
+The Hacker News --- 5/12/2026
 
-Another six large-carrier bags of books have gone to Oxfam. And my tiny redecorated study is at last put together again, and — a miracle! — with no books in piles on the floor. Rather late in the day, it is the nicest-looking room I have ever had....
+American educational technology company Instructure, the parent company of Canvas, said it reached an "agreement" with a decentralized cybercrime extortion group after it breached its network and threatened to leak stolen information from thousands...
 
 
-[Bobby, I hardly Knew Ye](https://crookedtimber.org/2026/04/19/55130/)
+[OpenAI Launches Daybreak for AI-Powered Vulnerability Detection and Patch Validation](https://thehackernews.com/2026/05/openai-launches-daybreak-for-ai-powered.html)
 ---
 
-Crooked Timber --- 4/19/2026
+The Hacker News --- 5/12/2026
 
-Back in the 1980s, I was (among other things) a writer and singer of satirical folk songs. Going to the National Folk Festival in Canberra at Easter, I caught up with old friends and was reminded that I had produced a book of my songs. Returning...
+OpenAI has launched Daybreak, a new cybersecurity initiative that brings together frontier artificial intelligence (AI) model capabilities and Codex Security to help organizations identify and patch vulnerabilities before attackers find a way in...
 
 
-[Global science equity – towards solutions](https://crookedtimber.org/2026/04/17/global-science-equity-towards-solutions/)
+[iOS 26.5 Brings Default End-to-End Encrypted RCS Messaging Between iPhone and Android](https://thehackernews.com/2026/05/ios-265-brings-default-end-to-end.html)
 ---
 
-Crooked Timber --- 4/17/2026
+The Hacker News --- 5/12/2026
 
-What does it mean to be an academic in different parts of the world? What comes along as the same job description – a bundle of teaching, research, and impact tasks – varies enormously from place to place. Not only the financial conditions of...
+Apple on Monday officially released iOS 26.5 with support for end-to-end encryption (E2EE) to Rich Communication Services (RCS) in beta as part of a "cross-industry effort" to replace traditional SMS with a more secure alternative. To that end,...
 
 
-[Machine Learning and Complexity](https://blog.computationalcomplexity.org/feeds/5310274630571764023/comments/default)
+[TeamPCP Compromises Checkmarx Jenkins AST Plugin Weeks After KICS Supply Chain Attack](https://thehackernews.com/2026/05/teampcp-compromises-checkmarx-jenkins.html)
 ---
 
-Computational Complexity --- 4/16/2026
+The Hacker News --- 5/11/2026
 
-At Oxford I focused my research and discussions on how we can use the tools of computational complexity to help us understand the power and limitations of machine learning. Last week I posted my paper How Does Machine Learning Manage Complexity?, a...
+Checkmarx has confirmed that a modified version of the Jenkins AST plugin was published to the Jenkins Marketplace. "If you are using Checkmarx Jenkins AST plugin, you need to ensure that you are using the version 2.0.13-829.vc72453fa_1c16 that was...
 
 
-[Music break: Baba Yetu](https://crookedtimber.org/2026/04/15/music-break-baba-yetu/)
+[cPanel CVE-2026-41940 Under Active Exploitation to Deploy Filemanager Backdoor](https://thehackernews.com/2026/05/cpanel-cve-2026-41940-under-active.html)
 ---
 
-Crooked Timber --- 4/15/2026
+The Hacker News --- 5/11/2026
 
-Do you know Baba Yetu? Take three minutes and listen to this performance of Baba Yetu. (Our ancient blogging platform doesn’t like embedded video, so you’ll have to click through to YouTube. Go ahead and click, nothing bad will happen.) Some...
+A threat actor named Mr_Rot13 has been attributed to the exploitation of a recently disclosed critical cPanel flaw to deploy a backdoor codenamed Filemanager on compromised environments. The attack exploits CVE-2026-41940, a vulnerability impacting...
 
 
-[Double Maths First Thing: Issue 54](https://aperiodical.com/2026/04/double-maths-first-thing-issue-54/)
+[Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation](https://thehackernews.com/2026/05/hackers-used-ai-to-develop-first-known.html)
 ---
 
-The Aperiodical --- 4/15/2026
+The Hacker News --- 5/11/2026
 
-Double Maths First Thing is playing 1D chess. Hello! My name is Colin and I am a mathematician on a mission to spread the delight and joy of doing maths, and trying really hard to communicate that it’s not just about arithmetic. The kids have...
+Google on Monday disclosed that it identified an unknown threat actor using a zero-day exploit that it said was likely developed with an artificial intelligence (AI) system, marking the first time the technology has been put to use in the wild in a...
 
 
-[Guest Post from Peter Brass, Former NSF Theory Director, on the NSF budget.](https://blog.computationalcomplexity.org/feeds/5341010132143038934/comments/default)
+[⚡ Weekly Recap: Linux Rootkit, macOS Crypto Stealer, WebSocket Skimmers and More](https://thehackernews.com/2026/05/weekly-recap-linux-rootkit-macos-crypto.html)
 ---
 
-Computational Complexity --- 4/14/2026
+The Hacker News --- 5/11/2026
 
-Guest post from Peter Brass, Former NSF Theory director (though not affiliated with the NSF now) on the White House NSF budget for FY 2027.---------------------------------------------Dear ColleaguesA week ago the White House released the NSF...
+Rough Monday. Somebody poisoned a trusted download again, somebody else turned cloud servers into public housing, and a few crews are still getting into boxes with bugs that should’ve died years ago — the same old holes, same lazy access paths,...
 
 
-[History Nerd Bucket List:  The Jenny Geddes Stool](https://crookedtimber.org/2026/04/14/history-nerd-bucket-list-the-jenny-geddes-stool/)
+[Your Purple Team Isn't Purple — It's Just Red and Blue in the Same Room](https://thehackernews.com/2026/05/your-purple-team-isnt-purple-its-just.html)
 ---
 
-Crooked Timber --- 4/14/2026
+The Hacker News --- 5/11/2026
 
-Before I depart this world, I would like to visit St. Giles’ Cathedral in Edinburgh, Scotland, and see the Jenny Geddes memorial. I’m told it’s open to the public. Why? What’s interesting about a stool? Well, it’s probably impossible to point to a...
+Defending a network at 2 am looks a lot like this: an analyst copy-pasting a hash from a PDF into a SIEM query. A red team script is being rewritten by hand so the blue team can use it. A patch waiting on a change-approval window that's longer than...
 
 
-[How many babies do we want? How many will we have?](https://crookedtimber.org/2026/04/14/how-many-babies-do-we-want-how-many-will-we-have/)
+[Fake OpenAI Privacy Filter Repo Hits #1 on Hugging Face, Draws 244K Downloads](https://thehackernews.com/2026/05/fake-openai-privacy-filter-repo-hits-1.html)
 ---
 
-Crooked Timber --- 4/14/2026
+The Hacker News --- 5/11/2026
 
-Among other things, the unlamented former autocrat Viktor Orban was one of the leading proponents of pro-natalist policies, and more open than most about the racist underpinnings of his view. However, like others who have tried to raise birth...
+A malicious Hugging Face repository managed to take a spot in the platform's trending list by impersonating OpenAI's Privacy Filter open-weight model to deliver a Rust-based information stealer to Windows users. The project, named...
 
 
-[Afterthoughs on Banach Tarski and the Miracle of loaves and Fishes](https://blog.computationalcomplexity.org/feeds/6374167830611679533/comments/default)
+[Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak](https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html)
 ---
 
-Computational Complexity --- 4/14/2026
+The Hacker News --- 5/10/2026
 
-I posted about using the Banach-Tarski Paradox(BT) to explain the miracle of Loaves and Fishes (LF) here.Darling says that whenever I fool my readers or my students then I have to tell them later, so I'll tell you now: The story about me meeting...
+Cybersecurity researchers have disclosed a critical security vulnerability in Ollama that, if successfully exploited, could allow a remote, unauthenticated attacker to leak its entire process memory. The out-of-bounds read flaw, which likely...
 
 
-[Claude and I](https://math.andrej.com/2026/04/14/claude-and-i/)
+[cPanel, WHM Release Fixes for Three New Vulnerabilities — Patch Now](https://thehackernews.com/2026/05/cpanel-whm-patch-3-new-vulnerabilities.html)
 ---
 
-Mathematics and Computation --- 4/13/2026
+The Hacker News --- 5/9/2026
 
-After spending many irritating hours with ChatGPT and Copilot, I finally tried out Claude. I told it to update photos of mathematicians from a derelict Perl script to a shiny new Python script with JSON, face recognition and modern CSS. It worked...
+cPanel has released updates to address three vulnerabilities in cPanel and Web Host Manager (WHM) that could be exploited to achieve privilege escalation, code execution, and denial-of-service. The list of vulnerabilities is as follows...
 
 
-[Claude and I](https://math.andrej.com/2026/04/14/claude-and-i/)
+[TCLBANKER Banking Trojan Targets Financial Platforms via WhatsApp and Outlook Worms](https://thehackernews.com/2026/05/tclbanker-banking-trojan-targets.html)
 ---
 
-Mathematics and Computation --- 4/13/2026
+The Hacker News --- 5/8/2026
 
-After spending many irritating hours with ChatGPT and Copilot, I finally tried out Claude. I told it to update photos of mathematicians from a derelict Perl script to a shiny new Python script with JSON, face recognition and modern CSS. It worked...
+Threat hunters have flagged a previously undocumented Brazilian banking trojan dubbed TCLBANKER that's capable of targeting 59 banking, fintech, and cryptocurrency platforms. The activity is being tracked by Elastic Security Labs under the moniker...
 
 
-[Unusual uses of OEIS sequences on GitHub](https://www.jeremykun.com/shortform/2026-04-13-0700/)
+[Fake Call History Apps Stole Payments From Users After 7.3 Million Play Store Downloads](https://thehackernews.com/2026/05/fake-call-history-apps-stole-payments.html)
 ---
 
-Math ∩ Programming --- 4/13/2026
+The Hacker News --- 5/8/2026
 
-I went hunting for references to the OEIS in open source code, and found some weird ones. There are not one, but two live-coding music frameworks that use OEIS sequences as a source for “anything that can be sequenced” in music. I’m guessing that’s...
+Cybersecurity researchers have discovered fraudulent apps on the official Google Play Store for Android that falsely claimed to offer access to call histories for any phone number, only to trick users into joining a subscription that provided fake...
 
 
-[Carnival of Maths 250](https://aperiodical.com/2026/04/carnival-of-maths-250/)
+[One Click, Total Shutdown: The "Patient Zero" Webinar on Killing Stealth Breaches](https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html)
 ---
 
-The Aperiodical --- 4/13/2026
+The Hacker News --- 5/8/2026
 
-The next issue of the Carnival of Mathematics, rounding up blog posts from the month of March 2026, is now online at Tom Rocks Maths. The Carnival rounds up maths blog posts from all over the internet, including some from our own Aperiodical. See...
+The hardest part of cybersecurity isn't the technology, it’s the people. Every major breach you’ve read about lately usually starts the same way: one employee, one clever email, and one "Patient Zero" infection. In 2026, hackers are using AI to...
 
 
-[Good news from Hungary](https://crookedtimber.org/2026/04/13/good-news-from-hungary/)
+[Quasar Linux RAT Steals Developer Credentials for Software Supply Chain Compromise](https://thehackernews.com/2026/05/quasar-linux-rat-steals-developer.html)
 ---
 
-Crooked Timber --- 4/13/2026
+The Hacker News --- 5/8/2026
 
-The news from Hungary’s election is so good that I need to write about it, even if not all the implications are clear yet, and even in a disorganised and way, repeating lots of what others are saying. Although the polls predicted Orban’s defeat,...
+A previously undocumented Linux implant codenamed Quasar Linux RAT (QLNX) is targeting developers' systems to establish a silent foothold as well as facilitate a broad range of post-compromise functionality, such as credential harvesting,...
 
 
-[Aperiodical News Roundup – March 2026](https://aperiodical.com/2026/04/aperiodical-news-roundup-march-2026/)
+[One Missed Threat Per Week: What 25M Alerts Reveal About Low-Severity Risk](https://thehackernews.com/2026/05/one-missed-threat-per-week-what-25m.html)
 ---
 
-The Aperiodical --- 4/12/2026
+The Hacker News --- 5/8/2026
 
-Here’s a quick round-up of maths internet news this month! Progress has been made on the Lonely Runner problem, which concerns when runners of different speeds going round a track will meet up, and has connections to higher-dimensional geometry. A...
+The dark secret of enterprise security operations is that defenders have quietly institutionalized the practice of not looking. This is not just anecdotal, but rather backed by a recent report investigating more than 25 million security alerts,...
 
 
-[Three books, no toast](https://www.logicmatters.net/2026/04/10/no-toast/)
+[New Linux PamDOORa Backdoor Uses PAM Modules to Steal SSH Credentials](https://thehackernews.com/2026/05/new-linux-pamdoora-backdoor-uses-pam.html)
 ---
 
-Blog - Logic Matters --- 4/10/2026
+The Hacker News --- 5/8/2026
 
-With my mind partly on revising the Study Guide, I have been browsing through three relatively recently published logic books. None of them impress as candidates for self-study. I will be brief (unfairly? life is short …). Robert André’s Set...
+Cybersecurity researchers have disclosed details of a new Linux backdoor named PamDOORa that's being advertised on the Rehub Russian cybercrime forum for $1,600 by a threat actor called "darkworm." The backdoor is designed as a Pluggable...
 
 
-[The OEIS meta sequence and subway stations](https://www.jeremykun.com/shortform/2026-04-09-0556/)
+[Linux Kernel Dirty Frag LPE Exploit Enables Root Access Across Major Distributions](https://thehackernews.com/2026/05/linux-kernel-dirty-frag-lpe-exploit.html)
 ---
 
-Math ∩ Programming --- 4/9/2026
+The Hacker News --- 5/8/2026
 
-A051070 is a sequence about OEIS sequences. a(n) is the n-th term in sequence A_n (or -1 if A_n doesn’t have enough terms). So the first term in A051070 is 1 because A000001 is the number of groups of order n, and that sequence has 1 as its entry...
+Details have emerged about a new, unpatched local privilege escalation (LPE) vulnerability impacting the Linux kernel. Dubbed Dirty Frag, it has been described as a successor to Copy Fail (CVE-2026-31431, CVSS score: 7.8), a recently disclosed LPE...
 
 
-[Double Maths First Thing: Issue 53](https://aperiodical.com/2026/04/double-maths-first-thing-issue-53/)
+[Ivanti EPMM CVE-2026-6973 RCE Under Active Exploitation Grants Admin-Level Access](https://thehackernews.com/2026/05/ivanti-epmm-cve-2026-6973-rce-under.html)
 ---
 
-The Aperiodical --- 4/8/2026
+The Hacker News --- 5/7/2026
 
-Double Maths First Thing could be Rotterdam or anywhere Hello! My name is Colin and I am a mathematician on a mission to spread the joy and delight in doing maths. I’m on a bit of a buzz at the moment – I went to my local open mic on Friday and had...
+Ivanti is warning that a new security flaw impacting Endpoint Manager Mobile (EPMM) has been explored in limited attacks in the wild. The high-severity vulnerability, CVE-2026-6973 (CVSS score: 7.2), is a case of improper input validation affecting...
 
 
-[Deterministic Primality Testing for Limited Bit Width](https://www.jeremykun.com/2026/04/07/deterministic-miller-rabin/)
+[PCPJack Credential Stealer Exploits 5 CVEs to Spread Worm-Like Across Cloud Systems](https://thehackernews.com/2026/05/pcpjack-credential-stealer-exploits-5.html)
 ---
 
-Math ∩ Programming --- 4/7/2026
+The Hacker News --- 5/7/2026
 
-Problem: Determine if a 32-bit number is prime (deterministically) Solution: (in C++) // Bases to test. Using the first 4 prime bases makes the test deterministic // for all 32-bit integers. See https://oeis.org/A014233. int64_t bases[] = {2, 3, 5,...
+Cybersecurity researchers have disclosed details of a new credential theft framework dubbed PCPJack that targets exposed cloud infrastructure and ousts any artifacts linked to TeamPCP from the environments. "The toolset harvests credentials from...
 
 
-[Partial functions and Church’s Thesis](https://www.logicmatters.net/2026/04/06/partial-functions-and-churchs-thesis/)
+[PAN-OS RCE Exploit Under Active Use Enabling Root Access and Espionage](https://thehackernews.com/2026/05/pan-os-rce-exploit-under-active-use.html)
 ---
 
-Blog - Logic Matters --- 4/6/2026
+The Hacker News --- 5/7/2026
 
-Alex Oliver and Tim Smiley’s magnum opus Plural Logic runs to some 340 pages before the end matter in the second edition. The final chapters are heavy going, involving detailed developments of some cumbersome (indeed, uninviting) formal theories. I...
+Palo Alto Networks has disclosed that threat actors may have attempted to unsuccessfully exploit a recently disclosed critical security flaw as early as April 9, 2026. The vulnerability in question is CVE-2026-0300 (CVSS score: 9.3/8.7), a buffer...
 
 
-[Fun Little Solutions](https://blog.computationalcomplexity.org/feeds/435654699921431615/comments/default)
+[174: Pacific Rim](https://darknetdiaries.com/episode/174/)
 ---
 
-Computational Complexity --- 4/5/2026
+Darknet Diaries --- 5/5/2026
 
-Here are the solutions to the problems I posted last week. Problem 1  A language \(L\) is commutative if for all \(u\), \(v\) in \(L\), \(uv = vu\). Show that  \(L\) is commutative if and only if \(L\) is a subset of \(w^*\) for some string...
+For six years, Sophos fought a secret cyber war against a state-backed hacking group targeting its firewalls. This forced Sophos to drastically change tactics to properly secure their firewalls.Was it ethical? Was it effective? They disrupted nine...
 
 
-[The spectrum of consistency strengths for membership in a computably enumerable set, Notre Dame Logic Seminar, April 2026](https://jdh.hamkins.org/consistency-strengths-for-membership-in-a-ce-set-notre-dame-logic-seminar-april-2026/)
+[173: Tarjeteros](https://darknetdiaries.com/episode/173/)
 ---
 
-Joel David Hamkins --- 4/4/2026
+Darknet Diaries --- 4/21/2026
 
-This will be a talk for the Logic Seminar at the University of Notre Dame, 14 April 2026, 2pm, Room 125 Hayes-Healey. Abstract After establishing several general features of the hierarchy of consistency strength, we shall consider the possible...
+In the streets of the Dominican Republic, a new economy thrives in the shadows. It’s built not on tourism or sugar, but on stolen data. They call them tarjeteros. And they are making a lot of money from stolen credit cards. This is a story about...
 
 
-[Great expectations](https://www.logicmatters.net/2026/04/02/great-expectations/)
+[172: SuperBox](https://darknetdiaries.com/episode/172/)
 ---
 
-Blog - Logic Matters --- 4/2/2026
+Darknet Diaries --- 4/7/2026
 
-Well, that all took rather longer than expected … A lot of repairing and filling and preparation (the joys of a late Victorian house). But at last the miniature room that counts as my study is redecorated. A carpet remains to be laid in ten days,...
+What if there was a device which gave you endless movies and TV shows without ads? Ok great sign me up! In this episode we interview “D3ada55”, who found such a device, but as she gazed into it, she discovered it gazing back at her.SponsorsSupport...
 
 
-[I helped the  Pope's with his latest Encyclical (His Math Background Helped)](https://blog.computationalcomplexity.org/feeds/4381271450317761501/comments/default)
+[171: Melody Fraud](https://darknetdiaries.com/episode/171/)
 ---
 
-Computational Complexity --- 4/1/2026
+Darknet Diaries --- 3/3/2026
 
-I blogged about Pope Leo XIV here. Pope Leo XIV has an undergraduate degree in mathematics. He saw my post and asked for my help with his latest encyclical. LEO: Let's have lunch together at Popeyes.BILL: Why Popeyes?LEO: The name is Pope-yes so I...
+What if the music charts you see aren’t real? What if the numbers that define success can be manufactured? We talked to Andrew, a man who has spent his career on both sides of this battle. He once profited from the loopholes in streaming platforms,...
 
 
-[The Irrational Decision—A Book Review](https://www.jeremykun.com/2026/04/01/irrational-decision-book-review/)
+[170: Phrack](https://darknetdiaries.com/episode/170/)
 ---
 
-Math ∩ Programming --- 4/1/2026
+Darknet Diaries --- 2/3/2026
 
-It’s the 5th annual April Cools! Here are my previous April Cools articles This year it’s a book review of Ben Recht’s book, The Irrational Decision: How We Gave Computers the Power to Choose For us, released Mar 10, 2026. The publishing industry...
+Phrack is legendary. It is the oldest, and arguably the most prestigious, underground hacking magazine in the world.It started in 1985 and is still running today. In this episode we interview the Phrack staff to hear some stories about what it’s...
 
 
-[Fun Little Problems](https://blog.computationalcomplexity.org/feeds/5825055140457935046/comments/default)
+[169: MoD](https://darknetdiaries.com/episode/169/)
 ---
 
-Computational Complexity --- 3/29/2026
+Darknet Diaries --- 1/20/2026
 
-Occasionally I run into what I consider fun problems in complexity, that require just a little bit of out of the box thinking. They require some background in theory, but nothing too deep. Some of these problems have been mentioned before on my...
+Legion of Doom, step aside. There’s a new elite hacker group in town, and they’re calling themselves Masters of Deception (MoD). With tactics that are grittier and more sophisticated than those of the LoD, MoD has targeted high-profile entities and...
 
 
-[The Book of Infinity, MIT Press, 2026](https://jdh.hamkins.org/the-book-of-infinity/)
+[168: LoD](https://darknetdiaries.com/episode/168/)
 ---
 
-Joel David Hamkins --- 3/28/2026
+Darknet Diaries --- 1/6/2026
 
-I am very pleased to announce that The Book of Infinity is now available for pre-order. Check it out at your favorite booksellers. From the preface: Come, let us explore infinity! We shall visit all my favorite paradoxes and conundrums. The ancient...
+The Legion of Doom (LoD) wasn’t just a “hacker group”, it captured the essence of underground hacking in the 80s/90s. BBSes, phreaking, rival crews, and the crackdowns that changed everything. From those humble beginnings came a legacy that still...
 
 
-[Geometry and the Exceptional Jordan Algebra](https://golem.ph.utexas.edu/category/2026/03/geometry_and_the_exceptional_j.html)
+[167: Threatlocker](https://darknetdiaries.com/episode/167/)
 ---
 
-The n-Category Café --- 3/27/2026
+Darknet Diaries --- 12/23/2025
 
-Slides for a talk on features of the octonionic projective plane.
+A manufacturer gets hit with ransomware. A hospital too. Learn how Threatlocker stops these types of attacks. This episode is brought to you by Threatlocker.SponsorsThis episode is sponsored by ThreatLocker®. ThreatLocker® is a Zero Trust Endpoint...
 
 
-[Since it is the Feast of the Annunciation …](https://www.logicmatters.net/2026/03/25/since-it-is-the-feast-of-the-annunciation/)
+[166: Maxie](https://darknetdiaries.com/episode/166/)
 ---
 
-Blog - Logic Matters --- 3/25/2026
+Darknet Diaries --- 12/2/2025
 
-Some of my very favourite paintings are Annunciations … the stunning Leonardo and Botticelli in the Uffizi, the lovely small painting from a predella by Domenico Veneziano close to home in the Fitzwilliam, the wonderful Filippo Lippi in the...
+Maxie Reynolds loves an adventure, especially the kind where she’s breaking into buildings (legally). In this episode, she shares stories from her time as a professional penetration tester, including high-stakes physical intrusions, red team chaos,...
 
 
-[My Oxford Term](https://blog.computationalcomplexity.org/feeds/8538887691585638145/comments/default)
+[165: Tanya](https://darknetdiaries.com/episode/165/)
 ---
 
-Computational Complexity --- 3/25/2026
+Darknet Diaries --- 11/4/2025
 
-High table dinner at MagdalenMy time in Oxford has come to an end and I head back to Chicago this week. I was a visiting Fellow at Magdalen (pronounced "maudlin") College for the Hilary Term.There's a six week break between the eight-week Hilary...
+Tanya Janca is a globally recognized AppSec (application security) expert and founder of We Hack Purple. In this episode, she shares wild stories from the front lines of cybersecurity. She shares stories of when she was a penetration tester to an...
 
 
-[A $100 gift card could be legit. A $1000 is obviously a Scam. What should scammers do?](https://blog.computationalcomplexity.org/feeds/588154071188826518/comments/default)
+[164: Oak Cliff Swipers](https://darknetdiaries.com/episode/164/)
 ---
 
-Computational Complexity --- 3/22/2026
+Darknet Diaries --- 10/7/2025
 
-If I get an email offering me a $1000 for I DON"T KNOW SINCE I ignore it and don't even bother looking for other signs it is a scam. If I get an email offering me $100 I may look more carefully and often they are legit (most common is to give a...
+He started small, swiping cards, buying gift cards, and cashing out. It spiraled into a full‑blown criminal enterprise. Dozens of co‑conspirators, stacks of stolen plastic, and a lifestyle built on chaos.Meet Nathan Michael, leader of Oak Cliff...
 
 
-[The Agent That Doesn't Know Itself](https://golem.ph.utexas.edu/category/2026/03/the_agent_that_doesnt_know_its.html)
+[163: Ola](https://darknetdiaries.com/episode/163)
 ---
 
-The n-Category Café --- 3/20/2026
+Darknet Diaries --- 9/2/2025
 
-A large language model has very little self-awareness.  But it is easy to give it some rudimentary but useful forms of self-awareness using the "plumbing" language.
+In 2019, Ola Bini, a Swedish programmer and privacy advocate, was arrested in Ecuador for being a Russian hacker.Find Ola on X: https://x.com/olabini. Or visit his website https://olabini.se/blog/. Or check out his non-profit...
 
 
-[Bennett and Brassard Win the Turing Award](https://blog.computationalcomplexity.org/feeds/5927640531093807966/comments/default)
+[162: Hieu](https://darknetdiaries.com/episode/162/)
 ---
 
-Computational Complexity --- 3/18/2026
+Darknet Diaries --- 8/5/2025
 
-Gilles Brassard and Charlie BennettCharlie Bennett and Gilles Brassard will receive the 2025 ACM Turing Award for their work on the foundations of quantum information science, the first Turing award for quantum. Read all about it in The New York...
+All Hieu Minh Ngo wanted was to make money online. But when he stumbled into the dark web, he found more than just opportunity, he found a global dark market. What started as a side hustle turned into an international crime spree.Find Hieu on X:...
 
 
-[Hoffmann, Limits of Mathematics](https://www.logicmatters.net/2026/03/16/hoffmann-limits-of-mathematics/)
+[161: mg](https://darknetdiaries.com/episode/161/)
 ---
 
-Blog - Logic Matters --- 3/16/2026
+Darknet Diaries --- 7/15/2025
 
-In the last couple of years, Dirk Hoffmann has published English translations of two of his books which originally appeared in German. In 2024, he gave us Gödel’s Incompleteness Theorems (Springer), which I will discuss in a future post. And then...
+In this episode we talk with mg (https://x.com/MG), the brilliant (and notorious) hacker and hardware engineer behind the OMG Cable. A seemingly ordinary USB cable with extraordinary offensive capabilities.Learn more about mg at:...
 
 
-[For \(R^3\) the problem is open. That's too bad. We live in \(R^3\)](https://blog.computationalcomplexity.org/feeds/1789534997257914710/comments/default)
+[160: Greg](https://darknetdiaries.com/episode/160/)
 ---
 
-Computational Complexity --- 3/16/2026
+Darknet Diaries --- 7/1/2025
 
-(If you live in Montgomery County Maryland OR if you care about Education, you MUST read this guest blog by Daniel Gottesman on Scott Aaronson's blog HERE.) (This post is a sequel to a prior post on this topic that was here. However, this post is...
+Greg Linares (AKA Laughing Mantis) joins us to tell us about how he became the youngest hacker to be arrested in Arizona.Follow Greg on Twitter: https://x.com/Laughing_Mantis.SponsorsSupport for this show comes from ThreatLocker®. ThreatLocker® is...
 
 
-[A Typed Language for Agent Coordination](https://golem.ph.utexas.edu/category/2026/03/a_typed_language_for_agent_coordination.html)
+[159: Vastaamo](https://darknetdiaries.com/episode/159/)
 ---
 
-The n-Category Café --- 3/12/2026
+Darknet Diaries --- 6/3/2025
 
-A category-theoretic approach to "agent frameworks": that is, frameworks for coordinating "agents" that are large language models.
+Joe Tidy investigates what may be the cruelest and most disturbing cyber attack in history. A breach so invasive it blurred the line between digital crime and psychological torture. This story might make your skin crawl.Get more from Joe...
 
 
-[Tony Hoare (1934-2026)](https://blog.computationalcomplexity.org/feeds/3674856833990894875/comments/default)
+[158: MalwareTech](https://darknetdiaries.com/episode/158/)
 ---
 
-Computational Complexity --- 3/10/2026
+Darknet Diaries --- 5/6/2025
 
-Turing Award winner and former Oxford professor Tony Hoare passed away last Thursday at the age of 92. Hoare is famous for quicksort, ALGOL, Hoare logic and so much more. Jim Miles gives his personal reflections.Jill Hoare, Tony Hoare, Jim Miles....
+MalwareTech was an anonymous security researcher, until he accidentally stopped WannaCry, one of the largest ransomware attacks in history. That single act of heroism shattered his anonymity and pulled him into a world he never...
 
 
-[How does AI do on Baseball-Brothers-Pitchers](https://blog.computationalcomplexity.org/feeds/8822847409328676415/comments/default)
+[157: Grifter](https://darknetdiaries.com/episode/157/)
 ---
 
-Computational Complexity --- 3/8/2026
+Darknet Diaries --- 4/1/2025
 
-In my graduate Ramsey Theory class I taught Kruskal's tree theorem (KTT) which was proven by Joe Kruskal in his PhD thesis in 1960. (Should that be in a graduate Ramsey Theory class? There are not enough people teaching such a course to get a...
+Grifter is a longtime hacker, DEF CON organizer, and respected voice in the infosec community. From his early days exploring networks to helping shape one of the largest hacker conferences in the world, Grifter has built a reputation for blending...
 
 
-[The Purpose of Proofs](https://blog.computationalcomplexity.org/feeds/5335444581424836410/comments/default)
+[156: Kill List](https://darknetdiaries.com/episode/156/)
 ---
 
-Computational Complexity --- 3/4/2026
+Darknet Diaries --- 3/18/2025
 
-In discussions of AI and Mathematics, the discussion often goes to mathematical proofs, such as the the First Proof challenge. So let's look at the role of proofs in mathematics.Without a proof, you don't even know whether a theorem is true or...
+The dark web is full of mystery. Some of it’s just made up though. Chris Monteiro wanted to see what was real and fake and discovered a hitman for hire site which took him on an unbelievable journey.Chris Monteiro Twitter: x.com/Deku_shrub,...
 
 
-[Goodhart's law: Ken Jennings and Types of Knowledge](https://blog.computationalcomplexity.org/feeds/3785437420338624202/comments/default)
+[155: Kingpin](http://darknetdiaries.com/episode/155/)
 ---
 
-Computational Complexity --- 3/2/2026
+Darknet Diaries --- 3/4/2025
 
-Goodhart's law: When a measure becomes a target, it stops being a measure.  I was watching the show Masterminds where Ken Jennings is one of the Masterminds. Here is what happened: Brook Burns (the host): The only vice president in the 20th century...
+In this episode, we delve into the multifaceted career of Joe Grand, also known as “Kingpin.” A renowned hardware hacker and computer engineer, Joe has been exploring and manipulating electronic systems since the 1980s. As a former member of the...
 
 
-[A Probability Challenge](https://blog.computationalcomplexity.org/feeds/1458051687028993555/comments/default)
+[154: Hijacked Line](http://darknetdiaries.com/episode/154/)
 ---
 
-Computational Complexity --- 2/25/2026
+Darknet Diaries --- 2/4/2025
 
-Last week I had the pleasure of meeting Alex Bellos in Oxford. Among other things Bellos writes the Guardian Monday puzzle column. He gave me a copy of his latest book, Puzzle Me Twice, where the obvious answer is not correct. I got more right than...
+Conor Freeman (x.com/conorfrmn) stole money online. Lot’s of it. In this episode we talk with him, and hear how he did it, why he did, and what he spent it on.Conor’s website: https://conorfreeman.ieConor’s X: https://x.com/conorfrmnSponsorsSupport...
 
 
-[ChatGPT gets an easy math problem wrong (I got it right). How is that possible?](https://blog.computationalcomplexity.org/feeds/5220881189742625792/comments/default)
+[153: Bike Index](https://darknetdiaries.com/episode/153/)
 ---
 
-Computational Complexity --- 2/25/2026
+Darknet Diaries --- 1/7/2025
 
-A commenter on this post asked for me (or anyone) to solve the problem without AI:A,B,C,D,E are digits (the poster said A could be 0 but I took A to be nonzero) such thatABCDE + BCDE + CDE + DE + E = 20320.(CLARIFICATION ADDED LATER: We allow two...
+Have you ever got your bike stolen? In this episode we dive into the world of stolen bikes. Who does it and where do the bikes go? We talk with Bryan from Bike Index who investigates this.https://bikeindex.orgSponsorsSupport for this show comes...
 
 
-[The Univalence Principle](https://golem.ph.utexas.edu/category/2026/02/the_univalence_principle.html)
+[152: Stacc Attack](https://darknetdiaries.com/episode/152/)
 ---
 
-The n-Category Café --- 2/22/2026
+Darknet Diaries --- 12/3/2024
 
-Making precise the idea that equivalent structures are indistinguishable.
+Jarett Dunn, AKA StaccOverflow, stole millions of dollars from a website called Pump Fun, and he wanted to do it in the most dramatic and theatrical way he could. His big heist is known as the “Stacc Attack”.https://x.com/STACCoverflowHe has a...
 
 
-[True and correct](http://abuseofnotation.github.io/true-correct/)
+[151: Chris Rock](https://darknetdiaries.com/episode/151/)
 ---
 
-Abuse of Notation --- 2/22/2026
+Darknet Diaries --- 11/5/2024
 
-In the 19th century, Copernicus, Newton, Galilei et al pushed a revolutionary new idea that reshaped the way we think… but no, it’s not talking about cosmology, but about theology. This idea, (which was also the real reason they were in so much...
+Chris Rock is known for being a security researcher. But he’s also a black hat incident responder. He tells us about a job he did in the middle east.https://x.com/chrisrockhackerSponsorsSupport for this show comes from Varonis. Do you wonder what...
 
 
-[Joe Halpern (1953-2026)](https://blog.computationalcomplexity.org/feeds/2442546540829531257/comments/default)
+[150: mobman 2](https://darknetdiaries.com/episode/150/)
 ---
 
-Computational Complexity --- 2/18/2026
+Darknet Diaries --- 10/1/2024
 
-Computer Science Professor Joseph Halpern passed away on Friday after a long battle with cancer. He was a leader in the mathematical reasoning about knowledge. His paper with Yoram Moses, Knowledge and Common Knowledge in a Distributed Environment,...
+In Episode 20 of Darknet Diaries, we heard from Greg aka “mobman” who said he created the sub7 malware. Something didn’t sit right with a lot of people about that episode. It’s time to revisit that episode and get to the bottom of...
 
 
-[Assigning Open Problems in Class](https://blog.computationalcomplexity.org/feeds/5900084073913115515/comments/default)
+[149: Mini-Stories: Vol 3](https://play.prx.org/listen?ge=prx_7057_18571cc8-c130-45be-a21d-ab000c5a7b0c&uf=https%3A%2F%2Fpodcast.darknetdiaries.com)
 ---
 
-Computational Complexity --- 2/15/2026
+Darknet Diaries --- 9/3/2024
 
-I sometimes assign open problems as extra credit problems. Some thoughts:1) Do you tell the students the problems are open?YES- it would be unfair for a student to work on something they almost surely won't get.NO- Some Open Problems are open...
+In this episode we hear EvilMog (https://x.com/Evil_Mog) tell us a story about when he had to troubleshoot networks in Afghanistan. We also get Joe (http://x.com/gonzosec) to tell us a penetration test story.SponsorsSupport for this show comes from...
 
 
-[Book Launch, Substack, and Other News](https://deontologistics.co/2026/02/14/book-launch-substack-and-other-news/)
+[148: Dubsnatch](https://darknetdiaries.com/episode/148/)
 ---
 
-DEONTOLOGISTICS --- 2/14/2026
+Darknet Diaries --- 8/6/2024
 
-A couple updates for readers. There will be an impromptu book launch for The Revenge of Reason at Newcastle University on the 25th of February, from 5-7pm in HDB.1.02 in the Henry Daysh Building. I’ll be having a conversation about the book with...
+Ever wondered how far a fan would go to get a sneak peek of their favorite artist’s unreleased tracks? In this episode, we uncover the audacious story of some teens bent on getting their hands on the newest dubstep music before anyone...
 
 
-[Truth and paradox in the theory of finite and infinite games, Owens Memorial Lecture, Wayne State University, April 2026](https://jdh.hamkins.org/truth-and-paradox-infinite-games-owens-lecture-wayne-state-april-2026/)
+[147: Tornado](https://darknetdiaries.com/episode/147)
 ---
 
-Joel David Hamkins --- 2/12/2026
+Darknet Diaries --- 7/2/2024
 
-I am honored to be invited to give the Owen G. Owens Memorial Lecture at Wayne State University on 16 April 2026, joining a distinguished list of luminaries giving previous Owens lectures, including Gregory Margulis, John Milnor, Mikhael Gromov,...
+In this episode, Geoff White (https://x.com/geoffwhite247) tells us what happened to Axie Infinity and Tornado cash. It’s a digital heist of epic proportions that changes everything.This story comes from part of Geoff’s book “Rinsed” which goes...
 
 
-[Mathematicians do not agree on the essential structure of the complex numbers, ASL/APA Central Division Meeting, Chicago, February 2026](https://jdh.hamkins.org/essential-structure-of-the-complex-numbers-asl-apa-chicago-2026/)
+[146: ANOM](https://darknetdiaries.com/episode/146/)
 ---
 
-Joel David Hamkins --- 2/11/2026
+Darknet Diaries --- 6/4/2024
 
-I have been asked by the ASL to fill in as a last-minute substitute speaker for the ASL session at the upcoming 2026 APA Central Division Meeting in Chicago, February 18-21, 2026, due to a late cancellation of one of … Continue reading →
+In this episode, Joseph Cox (https://x.com/josephfcox) tells us the story of anom. A secure phone made by criminals, for criminals.This story comes from part of Joseph’s book “Dark Wire” which you should definitely read. Get yours here...
 
 
-[Surreal arithmetic is bi-interpretable with set theory, CUNY Logic Workshop, March 2026](https://jdh.hamkins.org/surreal-arithmetic-cuny-logic-workshop-march-2026/)
+[145: Shannen](https://darknetdiaries.com/episode/145)
 ---
 
-Joel David Hamkins --- 2/4/2026
+Darknet Diaries --- 5/7/2024
 
-This will be a talk at the CUNY Logic Workshop on 13 March 2026, held at the CUNY Graduate Center. Abstract. I shall introduce the elementary theory of surreal arithmetic (SA), a first-order theory that is true in the surreal field when equipped...
+Shannen Rossmiller wanted to fight terrorism. So she went online and did.Read more about her from her book “The Unexpected Patriot: How an Ordinary American Mother Is Bringing Terrorists to Justice”. An affiliate link to the book on Amazon is here:...
 
 
-[I miss writing](http://proses.id/i-miss-writing/)
+[144: Rachel](https://darknetdiaries.com/episode/144/)
 ---
 
-Proses.ID --- 1/31/2026
+Darknet Diaries --- 4/2/2024
 
-I miss writing. That’s a strange thing to say because I’ve been employed as a full-time writer for the past 14 months. And I have…
+Rachel Tobac is a social engineer. In this episode we hear how she got started doing this and a few stories of how she hacked people and places using her voice and charm.Learn more about Rachel by following her on Twitter...
 
 
-[What makes a writing human?](http://proses.id/moist-writing/)
+[143: Jim Hates Scams](https://darknetdiaries.com/episode/143)
 ---
 
-Proses.ID --- 1/31/2026
+Darknet Diaries --- 3/5/2024
 
-I’ve been down a rabbit hole for the past few months, obsessed with a single question: “What makes a writing human?” It started, ironically, because…
+Jim Browning has dedicated himself to combatting scammers, taking a proactive stance by infiltrating their computer systems. Through his efforts, he not only disrupts these fraudulent operations but also shares his findings publicly on YouTube,...
 
 
-[Categorifying Riemann's Functional Equation](https://golem.ph.utexas.edu/category/2026/01/categorifying_riemanns_functio.html)
+[142: Axact](https://darknetdiaries.com/episode/142)
 ---
 
-The n-Category Café --- 1/26/2026
+Darknet Diaries --- 2/6/2024
 
-David Jaz Myers has some thoughts about Riemann's functional equation for the zeta function.
+Axact sells fake diplomas and degrees. What could go wrong with this business plan?SponsorsSupport for this episode comes from NetSuite. NetSuite gives you visibility and control of your financials, planning, budgeting, and of course - inventory -...
 
 
-[Coxeter and Dynkin Diagrams](https://golem.ph.utexas.edu/category/2026/01/coxeter_and_dynkin_diagrams.html)
+[141: The Pig Butcher](https://darknetdiaries.com/episode/141)
 ---
 
-The n-Category Café --- 1/6/2026
+Darknet Diaries --- 1/2/2024
 
-Dynkin diagrams have always fascinated me. They are magically potent language --- you can do so much with them!...
+The #1 crime which results in the biggest financial loss is BEC fraud. The #2 crime is pig butchering. Ronnie Tokazowski https://twitter.com/iHeartMalware walks us through this wild world.SponsorsSupport for this episode comes from NetSuite....
 
 
-[Fear of the future](http://abuseofnotation.github.io/future-self/)
+[140: Revenge Bytes](https://darknetdiaries.com/episode/140)
 ---
 
-Abuse of Notation --- 12/24/2025
+Darknet Diaries --- 12/5/2023
 
-Everything we do to secure ourselves, every decision we make out of fear of the future, ends up destroying us, ends up making our future a little more bleak — the closer we are to the public ideal of “success”, the farther we go from our own...
+Madison's nude photos were posted online. Her twin sister Christine came to help. This begins a bizarre and uneasy story.
 
 
-[When the tower crumbles](http://abuseofnotation.github.io/when-the-tower-crumbles/)
+[139: D3f4ult](https://darknetdiaries.com/episode/139)
 ---
 
-Abuse of Notation --- 12/24/2025
+Darknet Diaries --- 11/7/2023
 
-When the tower crumbles, some will laugh some will cry, some will fall from the top, some will be buried below. When the tower crumbles, better not be around better go all the way down, so you can run away.
+This is the story of D3f4ult (twitter.com/_d3f4ult) from CWA. He was a hacktivist, upset with the state of the way things were, and wanted to make some changes. Changes were made.SponsorsSupport for this show comes from Axonius. The Axonius...
 
 
-[Octonions and the Standard Model (Part 13)](https://golem.ph.utexas.edu/category/2025/12/octonions_and_the_standard_mod_11.html)
+[138: The Mimics of Punjab](https://darknetdiaries.com/episode/138)
 ---
 
-The n-Category Café --- 12/21/2025
+Darknet Diaries --- 10/3/2023
 
-There are two ways to stick SU(2) × SU(3) in Spin(10).   One is good for physics; the other, alas, is easily obtained using the octonions.
+This episode is about scammers in the Punjab region. Tarun (twitter.com/taruns21) comes on the show to tell us a story of what happened to him. Naomi Brockwell (twitter.com/naomibrockwell) makes an appearance to speak about digital privacy.To learn...
 
 
-[Octonions and the Standard Model (Part 12)](https://golem.ph.utexas.edu/category/2025/11/the_bioctonionic_plane.html)
+[137: Predator](https://darknetdiaries.com/episode/137)
 ---
 
-The n-Category Café --- 12/4/2025
+Darknet Diaries --- 9/5/2023
 
-An introduction to the bioctonionic plane and the mathematics needed to understand it.
+A new type of mercenary spyware came on the radar called Predator. It’ll infect a mobile phone, and then suck up all the data from it. Contacts, text messages, location, and more. This malware is being sold to intelligence agencies around the...
 
 
-[log|x| + C revisited](https://golem.ph.utexas.edu/category/2025/12/logx_c_revisited.html)
+[136: Team Xecuter](https://darknetdiaries.com/episode/136)
 ---
 
-The n-Category Café --- 12/3/2025
+Darknet Diaries --- 8/1/2023
 
-A complex-analytic perspective on the indefinite integral of 1/x.
+Team Xecuter was a group involved with making and selling modchips for video game systems. They often made mods that allowed the video game system to rip games or play pirated games. It was a crowd favorite in the modding scene. Until it all fell...
 
 
-[I should stop doing category theory](http://abuseofnotation.github.io/whats-the-point/)
+[135: The D.R. Incident](https://darknetdiaries.com/episode/135)
 ---
 
-Abuse of Notation --- 12/1/2025
+Darknet Diaries --- 7/4/2023
 
-I should stop doing category theory. What’s the point?
+Omar Avilez worked in the CSIRT of the Dominican Republic when a major cyber security incident erupted. Omar walks us through what happened and the incident response procedures that he went through.Breakmaster Cylinder’s new album:...
 
 
-[Beyond the Geometry of Music](https://golem.ph.utexas.edu/category/2025/11/beyond_the_geometry_of_music.html)
+[134: Deviant](https://darknetdiaries.com/episode/134/)
 ---
 
-The n-Category Café --- 11/30/2025
+Darknet Diaries --- 6/6/2023
 
-Tymoczko gave a good talk on the math of music theory.
+Deviant Ollam is a physical penetration specialist. That means he’s paid to break into buildings to see if the building is secure or not. He has done this for a long time and has a lot of tricks up his sleeve to get into buildings. In this episode...
 
 
-[Bicyclic Matrix-Matrix Multiplication in Fully Homomorphic Encryption](https://www.jeremykun.com/2025/11/17/bicyclic-matrix-matrix-multiplication-in-fully-homomorphic-encryption/)
+[133: I'm the Real Connor](https://darknetdiaries.com/episode/133)
 ---
 
-Math ∩ Programming --- 11/17/2025
+Darknet Diaries --- 5/2/2023
 
-In an earlier article, I covered the basic technique for performing matrix-vector multiplication in fully homomorphic encryption (FHE), known as the Halevi-Shoup diagonal method. This article covers a more recent method for matrix-matrix...
+One day Connor Tumbleson got an email saying his identity has been stolen. And this was one of the strangest days he’s ever had.SponsorsSupport for this show comes from Quorum Cyber. Their mantra is: “We help good people win.” If you’re looking for...
 
 
-[The elementary theory of surreal arithmetic is bi-interpretable with set theory, Notre Dame Logic Seminar, November 2025](https://jdh.hamkins.org/surreal-arithmetic-notre-dame-logic-seminar-nov-2025/)
+[132: Sam the Vendor](https://darknetdiaries.com/episode/132)
 ---
 
-Joel David Hamkins --- 11/12/2025
+Darknet Diaries --- 4/4/2023
 
-This will be a talk for the Logic Seminar at the University of Notre Dame, Tuesday 18 November 20215 2pm 125 Hayes-Healy Building. Abstract. I shall introduce what I call the first-order elementary theory of surreal arithmetic, a theory that is...
+Sam Bent, a.k.a. DoingFedTime, brings us a story of what it was like being a darknet market vendor.Learn more about Sam at https://www.doingfedtime.com/.SponsorsSupport for this show comes from Akamai Connected Cloud (formerly Linode). Akamai...
 
 
-[The Inverse Cube Force Law](https://golem.ph.utexas.edu/category/2025/11/the_inverse_cube_force_law.html)
+[131: Welcome to Video](https://darknetdiaries.com/episode/131)
 ---
 
-The n-Category Café --- 11/6/2025
+Darknet Diaries --- 12/27/2022
 
-Newton's Principia is famous for his investigations of the inverse square force law for gravity.  But he also studied the inverse cube law.  Why, and what is so good about this law?
+Andy Greenberg (https://twitter.com/a_greenberg) brings us a gut wrenching story of how criminal investigators used bitcoin tracing techniques to try to find out who was at the center of a child sexual abuse darkweb website.This story is part of...
 
 
-[Dynamics in Jordan Algebras](https://golem.ph.utexas.edu/category/2025/11/dynamics_in_jordan_algebras.html)
+[130: Jason's Pen Test](https://darknetdiaries.com/episode/130)
 ---
 
-The n-Category Café --- 11/4/2025
+Darknet Diaries --- 12/13/2022
 
-You can tweak Heisenberg's equation so that instead of using a commutator it uses an associator!  Then it applies to Jordan algebras other than that of self-adjoint complex matrices.
+Join us as we sit down with Jason Haddix (https://twitter.com/Jhaddix), a renowned penetration tester who has made a name for himself by uncovering vulnerabilities in some of the world’s biggest companies. In this episode, Jason shares his funny...
 
 
-[What is your number? Logic puzzles for mathematicians – 2025 DePrima Memorial Lecture, Caltech](https://jdh.hamkins.org/what-is-your-number-logic-puzzles-for-mathematicians-deprima-lecture-caltech-2025/)
+[129: Gollumfun (Part 2)](https://darknetdiaries.com/episode/129)
 ---
 
-Joel David Hamkins --- 11/4/2025
+Darknet Diaries --- 11/29/2022
 
-I am honored to be giving the 2025-26 Charles R. DePrima Memorial Lecture for the Mathematics Department of the California Institute of Technology. This lecture series aims to bring mathematical researchers to Caltech to give talks for a primarily...
+Brett Johnson, AKA Gollumfun (twitter.com/GOllumfun) was involved with the websites Counterfeit Library and Shadow Crew. He tells his story of what happened there and some of the crimes he committed.In part 2, his past catches up to him.Listen to...
 
 
-[Second Quantization and the Kepler Problem](https://golem.ph.utexas.edu/category/2025/11/second_quantization_and_the_ke.html)
+[128: Gollumfun (Part 1)](https://darknetdiaries.com/episode/128)
 ---
 
-The n-Category Café --- 11/3/2025
+Darknet Diaries --- 11/15/2022
 
-Exploiting the secret 4-dimensional symmetry of the Kepler problem to think about the periodic table of elements in a new way.
+Brett Johnson, AKA Gollumfun (twitter.com/GOllumfun) was involved with the websites Counterfeit Library and Shadow Crew. He tells his story of what happened there and some of the crimes he committed.SponsorsSupport for this show comes from Axonius....
 
 
-[The Revenge of Reason is here!](https://deontologistics.co/2025/11/01/the-revenge-of-reason-is-here/)
+[127: Maddie](https://darknetdiaries.com/episode/127)
 ---
 
-DEONTOLOGISTICS --- 11/1/2025
+Darknet Diaries --- 11/1/2022
 
-It’s been a long time coming, but my second book, The Revenge of Reason, is finally available to buy. There are so many things in here that were written or given as talks long ago but never actually published, and it’s nice to know people will...
+Maddie Stone is a security researcher for Google’s Project Zero. In this episode we hear what it’s like battling zero day vulnerabilities.SponsorsSupport for this show comes from Zscalar. Zscalar zero trust exchange will scrutinize the traffic and...
 
 
-[Applied Category Theory 2026](https://golem.ph.utexas.edu/category/2025/10/applied_category_theory_2026.html)
+[126: REvil](https://darknetdiaries.com/episode/126)
 ---
 
-The n-Category Café --- 10/28/2025
+Darknet Diaries --- 10/18/2022
 
-Applied Category Theory 2026 is taking place 6--10 July in Tallinn, Estonia, and it's preceded by the Adjoint School Research Week, 29 June -- 3 July.
+REvil is the name of a ransomware service as well as a group of criminals inflicting ransomware onto the world. Hear how this ransomware shook the world.A special thanks to our guest Will, a CTI researcher with Equinix.SponsorsSupport for this show...
 
 
-[Integer Set Library (ISL) - A Primer](https://www.jeremykun.com/2025/10/19/isl-a-primer/)
+[125: Jeremiah](https://darknetdiaries.com/episode/125)
 ---
 
-Math ∩ Programming --- 10/19/2025
+Darknet Diaries --- 10/4/2022
 
-Polyhedral optimization is a tool used in compilers for optimizing loop nests. While the major compilers that use this implement polyhedral optimizations from scratch,1 there is a generally-applicable open source C library called the Integer Set...
+Jeremiah Roe is a seasoned penetration tester. In this episode he tells us about a time when he had to break into a building to prove it wasn’t as secure as the company thought.You can catch more of Jeremiah on the We’re In podcast.SponsorsSupport...
 
