@@ -1,4 +1,20 @@
 
+[NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE](https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html)
+---
+
+The Hacker News --- 5/17/2026
+
+A newly disclosed security flaw impacting NGINX Plus and NGINX Open has come under active exploitation in the wild, days after its public disclosure, according to VulnCheck. The vulnerability, tracked as CVE-2026-42945 (CVSS score: 9.2), is a heap...
+
+
+[Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt](https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html)
+---
+
+The Hacker News --- 5/17/2026
+
+Grafana has disclosed that an "unauthorized party" obtained a token that granted them the ability to access the company's GitHub environment and download its codebase.  "Our investigation has determined that no customer data or personal...
+
+
 [Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming](https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html)
 ---
 
@@ -381,22 +397,6 @@ Details have emerged about a new, unpatched local privilege escalation (LPE) vul
 The Hacker News --- 5/7/2026
 
 Ivanti is warning that a new security flaw impacting Endpoint Manager Mobile (EPMM) has been explored in limited attacks in the wild. The high-severity vulnerability, CVE-2026-6973 (CVSS score: 7.2), is a case of improper input validation affecting...
-
-
-[PCPJack Credential Stealer Exploits 5 CVEs to Spread Worm-Like Across Cloud Systems](https://thehackernews.com/2026/05/pcpjack-credential-stealer-exploits-5.html)
----
-
-The Hacker News --- 5/7/2026
-
-Cybersecurity researchers have disclosed details of a new credential theft framework dubbed PCPJack that targets exposed cloud infrastructure and ousts any artifacts linked to TeamPCP from the environments. "The toolset harvests credentials from...
-
-
-[PAN-OS RCE Exploit Under Active Use Enabling Root Access and Espionage](https://thehackernews.com/2026/05/pan-os-rce-exploit-under-active-use.html)
----
-
-The Hacker News --- 5/7/2026
-
-Palo Alto Networks has disclosed that threat actors may have attempted to unsuccessfully exploit a recently disclosed critical security flaw as early as April 9, 2026. The vulnerability in question is CVE-2026-0300 (CVSS score: 9.3/8.7), a buffer...
 
 
 [174: Pacific Rim](https://darknetdiaries.com/episode/174/)
