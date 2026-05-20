@@ -1,4 +1,68 @@
 
+[Trapdoor Android Ad Fraud Scheme Hit 659 Million Daily Bid Requests Using 455 Apps](https://thehackernews.com/2026/05/trapdoor-android-ad-fraud-scheme-hit.html)
+---
+
+The Hacker News --- 5/19/2026
+
+Cybersecurity researchers have disclosed details of a new ad fraud and malvertising operation dubbed Trapdoor targeting Android device users. The activity, per HUMAN's Satori Threat Intelligence and Research Team, encompassed 455 malicious Android...
+
+
+[DirtyDecrypt PoC Released for Linux Kernel CVE-2026-31635 LPE Vulnerability](https://thehackernews.com/2026/05/dirtydecrypt-poc-released-for-linux.html)
+---
+
+The Hacker News --- 5/19/2026
+
+Proof-of-concept (PoC) exploit code has now been released for a recently patched security flaw in the Linux kernel that could allow for local privilege escalation (LPE). Dubbed DirtyDecrypt (aka DirtyCBC), the vulnerability was discovered and...
+
+
+[The New Phishing Click: How OAuth Consent Bypasses MFA](https://thehackernews.com/2026/05/the-new-phishing-click-how-oauth.html)
+---
+
+The Hacker News --- 5/19/2026
+
+In February 2026, a phishing-as-a-service (PhaaS) platform called EvilTokens went live. Within five weeks, it had compromised more than 340 Microsoft 365 organizations across five countries.  The targets of the platform received a message asking...
+
+
+[Drupal to Release Urgent Core Security Updates on May 20, Sites Told to Prepare](https://thehackernews.com/2026/05/drupal-to-release-urgent-core-security.html)
+---
+
+The Hacker News --- 5/19/2026
+
+Drupal has issued an alert stating that it intends to release a "core security release" for all supported branches on May 20, 2026, from 5-9 p.m. UTC. "The Drupal Security Team urges you to reserve time for core updates at that time because...
+
+
+[SEPPMail Secure E-Mail Gateway Vulnerabilities Enable RCE and Mail Traffic Access](https://thehackernews.com/2026/05/seppmail-secure-e-mail-gateway.html)
+---
+
+The Hacker News --- 5/19/2026
+
+Critical security vulnerabilities have been disclosed in SEPPMail Secure E-Mail Gateway, an enterprise-grade email security solution, that could be exploited to achieve remote code execution and enable an attacker to read arbitrary mails from the...
+
+
+[Compromised Nx Console 18.95.0 Targeted VS Code Developers with Credential Stealer](https://thehackernews.com/2026/05/compromised-nx-console-18950-targeted.html)
+---
+
+The Hacker News --- 5/19/2026
+
+Cybersecurity researchers have flagged a compromised version of the Nx Console extension that was published to the Microsoft Visual Studio Code (VS Code) Marketplace. The extension in question is rwl.angular-console (version 18.95.0), a popular...
+
+
+[Popular GitHub Action Tags Redirected to Imposter Commit to Steal CI/CD Credentials](https://thehackernews.com/2026/05/github-actions-supply-chain-attack.html)
+---
+
+The Hacker News --- 5/19/2026
+
+In yet another software supply chain attack, threat actors have compromised the popular GitHub Actions workflow, actions-cool/issues-helper, to run malicious code that harvests sensitive credentials and exfiltrates them to an attacker-controlled...
+
+
+[Mini Shai-Hulud Pushes Malicious AntV npm Packages via Compromised Maintainer Account](https://thehackernews.com/2026/05/mini-shai-hulud-pushes-malicious-antv.html)
+---
+
+The Hacker News --- 5/19/2026
+
+Cybersecurity researchers have discovered a fresh software supply chain attack campaign that has compromised various npm packages associated with the @antv ecosystem as part of the ongoing Mini Shai-Hulud attack wave. "The attack affects packages...
+
+
 [INTERPOL Operation Ramz Disrupts MENA Cybercrime Networks with 201 Arrests](https://thehackernews.com/2026/05/interpol-operation-ramz-disrupts-mena.html)
 ---
 
@@ -333,70 +397,6 @@ OpenAI has launched Daybreak, a new cybersecurity initiative that brings togethe
 The Hacker News --- 5/12/2026
 
 Apple on Monday officially released iOS 26.5 with support for end-to-end encryption (E2EE) to Rich Communication Services (RCS) in beta as part of a "cross-industry effort" to replace traditional SMS with a more secure alternative. To that end,...
-
-
-[TeamPCP Compromises Checkmarx Jenkins AST Plugin Weeks After KICS Supply Chain Attack](https://thehackernews.com/2026/05/teampcp-compromises-checkmarx-jenkins.html)
----
-
-The Hacker News --- 5/11/2026
-
-Checkmarx has confirmed that a modified version of the Jenkins AST plugin was published to the Jenkins Marketplace. "If you are using Checkmarx Jenkins AST plugin, you need to ensure that you are using the version 2.0.13-829.vc72453fa_1c16 that was...
-
-
-[cPanel CVE-2026-41940 Under Active Exploitation to Deploy Filemanager Backdoor](https://thehackernews.com/2026/05/cpanel-cve-2026-41940-under-active.html)
----
-
-The Hacker News --- 5/11/2026
-
-A threat actor named Mr_Rot13 has been attributed to the exploitation of a recently disclosed critical cPanel flaw to deploy a backdoor codenamed Filemanager on compromised environments. The attack exploits CVE-2026-41940, a vulnerability impacting...
-
-
-[Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation](https://thehackernews.com/2026/05/hackers-used-ai-to-develop-first-known.html)
----
-
-The Hacker News --- 5/11/2026
-
-Google on Monday disclosed that it identified an unknown threat actor using a zero-day exploit that it said was likely developed with an artificial intelligence (AI) system, marking the first time the technology has been put to use in the wild in a...
-
-
-[⚡ Weekly Recap: Linux Rootkit, macOS Crypto Stealer, WebSocket Skimmers and More](https://thehackernews.com/2026/05/weekly-recap-linux-rootkit-macos-crypto.html)
----
-
-The Hacker News --- 5/11/2026
-
-Rough Monday. Somebody poisoned a trusted download again, somebody else turned cloud servers into public housing, and a few crews are still getting into boxes with bugs that should’ve died years ago — the same old holes, same lazy access paths,...
-
-
-[Your Purple Team Isn't Purple — It's Just Red and Blue in the Same Room](https://thehackernews.com/2026/05/your-purple-team-isnt-purple-its-just.html)
----
-
-The Hacker News --- 5/11/2026
-
-Defending a network at 2 am looks a lot like this: an analyst copy-pasting a hash from a PDF into a SIEM query. A red team script is being rewritten by hand so the blue team can use it. A patch waiting on a change-approval window that's longer than...
-
-
-[Fake OpenAI Privacy Filter Repo Hits #1 on Hugging Face, Draws 244K Downloads](https://thehackernews.com/2026/05/fake-openai-privacy-filter-repo-hits-1.html)
----
-
-The Hacker News --- 5/11/2026
-
-A malicious Hugging Face repository managed to take a spot in the platform's trending list by impersonating OpenAI's Privacy Filter open-weight model to deliver a Rust-based information stealer to Windows users. The project, named...
-
-
-[Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak](https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html)
----
-
-The Hacker News --- 5/10/2026
-
-Cybersecurity researchers have disclosed a critical security vulnerability in Ollama that, if successfully exploited, could allow a remote, unauthenticated attacker to leak its entire process memory. The out-of-bounds read flaw, which likely...
-
-
-[cPanel, WHM Release Fixes for Three New Vulnerabilities — Patch Now](https://thehackernews.com/2026/05/cpanel-whm-patch-3-new-vulnerabilities.html)
----
-
-The Hacker News --- 5/9/2026
-
-cPanel has released updates to address three vulnerabilities in cPanel and Web Host Manager (WHM) that could be exploited to achieve privilege escalation, code execution, and denial-of-service. The list of vulnerabilities is as follows...
 
 
 [174: Pacific Rim](https://darknetdiaries.com/episode/174/)
