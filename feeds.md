@@ -1,4 +1,52 @@
 
+[npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks](https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html)
+---
+
+The Hacker News --- 5/23/2026
+
+GitHub has rolled out new controls for npm to improve the security of the software supply chain, giving maintainers the ability to explicitly approve a release prior to the packages becoming publicly available for installation. Called staged...
+
+
+[Packagist Supply Chain Attack Infects 8 Packages Using GitHub-Hosted Linux Malware](https://thehackernews.com/2026/05/packagist-supply-chain-attack-infects-8.html)
+---
+
+The Hacker News --- 5/23/2026
+
+A new "coordinated" supply chain attack campaign has impacted eight packages on Packagist including malicious code designed to run a Linux binary retrieved from a GitHub Releases URL. "Although the affected packages were all Composer packages, the...
+
+
+[Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software](https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html)
+---
+
+The Hacker News --- 5/23/2026
+
+Anthropic on Friday disclosed that Project Glasswing has helped uncover more than 10,000 high- or critical-severity vulnerabilities across some of the most "systemically" important software across the world since the cybersecurity initiative went...
+
+
+[Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer](https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html)
+---
+
+The Hacker News --- 5/23/2026
+
+Cybersecurity researchers have flagged a fresh software supply chain attack campaign that has targeted multiple PHP packages belonging to  Laravel-Lang to deliver a comprehensive credential-stealing framework. The affected packages include - ...
+
+
+[LiteSpeed cPanel Plugin CVE-2026-48172 Exploited to Run Scripts as Root](https://thehackernews.com/2026/05/litespeed-cpanel-plugin-cve-2026-48172.html)
+---
+
+The Hacker News --- 5/23/2026
+
+A maximum-severity security vulnerability impacting LiteSpeed User-End cPanel Plugin has come under active exploitation in the wild. The flaw, tracked as CVE-2026-48172 (CVSS score: 10.0), relates to an instance of incorrect privilege assignment...
+
+
+[Drupal Core SQL Injection Bug Actively Exploited, Added to CISA KEV](https://thehackernews.com/2026/05/drupal-core-sql-injection-bug-actively.html)
+---
+
+The Hacker News --- 5/23/2026
+
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a recently patched critical security flaw impacting Drupal Core to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The...
+
+
 [First VPN Dismantled in Global Takedown Over Use by 25 Ransomware Groups](https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html)
 ---
 
@@ -12,7 +60,7 @@ Authorities in Europe and North America have announced the dismantling of a crim
 
 The Hacker News --- 5/22/2026
 
-The Belarus-aligned threat actor known as Ghostwriter (aka UAC-0057 and UNC1151Ukraine's National Security and Defense Council) has been observed using lures related to Prometheus, a Ukrainian online learning platform, to target government...
+The Belarus-aligned threat actor known as Ghostwriter (aka UAC-0057 and UNC1151) has been observed using lures related to Prometheus, a Ukrainian online learning platform, to target government organizations in the country. The activity, per the...
 
 
 [Megalodon GitHub Attack Targets 5,561 Repos with Malicious CI/CD Workflows](https://thehackernews.com/2026/05/megalodon-github-attack-targets-5561.html)
@@ -349,54 +397,6 @@ Cybersecurity researchers have disclosed a set of four security flaws in OpenCla
 The Hacker News --- 5/15/2026
 
 In Your Biggest Security Risk Isn't Malware — It's What You Already Trust, we made a simple argument: the most dangerous activity inside most organizations no longer looks like an attack. It looks like administration. PowerShell, WMIC, netsh,...
-
-
-[TanStack Supply Chain Attack Hits Two OpenAI Employee Devices, Forces macOS Updates](https://thehackernews.com/2026/05/tanstack-supply-chain-attack-hits-two.html)
----
-
-The Hacker News --- 5/15/2026
-
-OpenAI has disclosed that two of its employee devices in its corporate environment were impacted via the Mini Shai-Hulud supply chain attack on TanStack, but noted that no user data, production systems, or intellectual property were compromised or...
-
-
-[On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email](https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html)
----
-
-The Hacker News --- 5/15/2026
-
-Microsoft has disclosed a new security vulnerability impacting on-premise versions of Exchange Server that it said has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-42897 (CVSS score: 8.1), has been described as...
-
-
-[CISA Adds Cisco SD-WAN CVE-2026-20182 to KEV After Admin Access Exploits](https://thehackernews.com/2026/05/cisa-adds-cisco-sd-wan-cve-2026-20182.html)
----
-
-The Hacker News --- 5/15/2026
-
-The U.S.Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a newly disclosed vulnerability impacting Cisco Catalyst SD-WAN Controller to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive...
-
-
-[Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access](https://thehackernews.com/2026/05/cisco-catalyst-sd-wan-controller-auth.html)
----
-
-The Hacker News --- 5/14/2026
-
-Cisco has released updates to address a maximum-severity authentication bypass flaw in Catalyst SD-WAN Controller that it said has been exploited in limited attacks. The vulnerability, tracked as CVE-2026-20182, carries a CVSS score of 10.0. "A...
-
-
-[Stealer Backdoor Found in 3 Node-IPC Versions Targeting Developer Secrets](https://thehackernews.com/2026/05/stealer-backdoor-found-in-3-node-ipc.html)
----
-
-The Hacker News --- 5/14/2026
-
-Cybersecurity researchers are sounding the alarm about what has been described as "malicious activity" in newly published versions of node-ipc. According to Socket and StepSecurity, three different versions of the npm package have been confirmed as...
-
-
-[ThreatsDay Bulletin: PAN-OS RCE, Mythos cURL Bug, AI Tokenizer Attacks, and 10+ Stories](https://thehackernews.com/2026/05/threatsday-bulletin-pan-os-rce-mythos.html)
----
-
-The Hacker News --- 5/14/2026
-
-Everything is still on fire. This week feels dumb in the worst way — bad links, weak checks, fake help desks, shady forum posts, and people turning supply chain attacks into some cursed little game for clout and cash. Half of it feels new. Half of...
 
 
 [174: Pacific Rim](https://darknetdiaries.com/episode/174/)
