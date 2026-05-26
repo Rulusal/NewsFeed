@@ -1,4 +1,44 @@
 
+[⚡ Weekly Recap: Linux Flaws, Defender 0-Days, Router Botnets, and Supply Chain Chaos](https://thehackernews.com/2026/05/weekly-recap-linux-flaws-defender-0.html)
+---
+
+The Hacker News --- 5/25/2026
+
+Monday recap. Same mess, new week. A sketchy dev tool got people pwned, old bugs came back from the dead, and security products somehow needed protecting from themselves. A bunch of companies spent the week checking old boxes and forgotten servers...
+
+
+[Ghost CMS CVE-2026-26980 Exploited to Hijack 700+ Sites for ClickFix Attacks](https://thehackernews.com/2026/05/ghost-cms-cve-2026-26980-exploited-to.html)
+---
+
+The Hacker News --- 5/25/2026
+
+Threat actors are exploiting a recently disclosed critical security flaw in Ghost CMS to inject malicious JavaScript code with an aim to fuel ClickFix attacks. According to QiAnXin XLab, the activity involves the exploitation of CVE-2026-26980...
+
+
+[The Alert Firehose Finally Meets Its Match](https://thehackernews.com/2026/05/the-alert-firehose-finally-meets-its.html)
+---
+
+The Hacker News --- 5/25/2026
+
+Ask a cybersecurity pro about Network Detection and Response (NDR) and you might still hear "Noisy," "Too much data." But ask the teams running NDR that includes agentic AI capabilities and you'll hear they're actually using it to catch threats...
+
+
+[Lazarus Deploys RemotePE Memory-Only RAT Against Financial and Crypto Firms](https://thehackernews.com/2026/05/lazarus-deploys-remotepe-memory-only.html)
+---
+
+The Hacker News --- 5/25/2026
+
+Cybersecurity researchers have shed light on a cross-platform malware called RemotePE that has been put to use by the North Korea-linked Lazarus Group in attacks targeting financial and cryptocurrency organizations. RemotePE, per NCC Group...
+
+
+[TrapDoor Supply Chain Attack Spreads Credential-Stealing Malware via npm, PyPI, and CratesIO](https://thehackernews.com/2026/05/trapdoor-supply-chain-attack-spreads.html)
+---
+
+The Hacker News --- 5/25/2026
+
+A new coordinated cross-ecosystem software supply chain attack campaign has targeted npm, PyPI, and Crates.io to distribute credential-stealing malware. The campaign, codenamed TrapDoor, spans more than 34 malicious packages across over 384...
+
+
 [npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks](https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html)
 ---
 
@@ -357,46 +397,6 @@ A new analysis of the Lua-based fast16 malware has confirmed that it was a cyber
 The Hacker News --- 5/17/2026
 
 A newly disclosed security flaw impacting NGINX Plus and NGINX Open has come under active exploitation in the wild, days after its public disclosure, according to VulnCheck. The vulnerability, tracked as CVE-2026-42945 (CVSS score: 9.2), is a heap...
-
-
-[Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt](https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html)
----
-
-The Hacker News --- 5/17/2026
-
-Grafana has disclosed that an "unauthorized party" obtained a token that granted them the ability to access the company's GitHub environment and download its codebase.  "Our investigation has determined that no customer data or personal...
-
-
-[Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming](https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html)
----
-
-The Hacker News --- 5/16/2026
-
-A critical security vulnerability impacting the  Funnel Builder  plugin for WordPress has come under active exploitation in the wild to  inject malicious JavaScript code  into WooCommerce checkout pages with the goal of stealing payment...
-
-
-[Turla Turns Kazuar Backdoor Into Modular P2P Botnet for Persistent Access](https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html)
----
-
-The Hacker News --- 5/15/2026
-
-The Russian state-sponsored hacking group known as      Turla    has transformed its custom backdoor Kazuar into a modular peer-to-peer (P2P) botnet that's engineered for stealth and persistent access to compromised hosts.  Turla, per the...
-
-
-[Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence](https://thehackernews.com/2026/05/four-openclaw-flaws-enable-data-theft.html)
----
-
-The Hacker News --- 5/15/2026
-
-Cybersecurity researchers have disclosed a set of four security flaws in OpenClaw that could be chained to achieve data theft, privilege escalation, and persistence.  The vulnerabilities, collectively dubbed      Claw Chain    by Cyera, can...
-
-
-[What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface](https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html)
----
-
-The Hacker News --- 5/15/2026
-
-In Your Biggest Security Risk Isn't Malware — It's What You Already Trust, we made a simple argument: the most dangerous activity inside most organizations no longer looks like an attack. It looks like administration. PowerShell, WMIC, netsh,...
 
 
 [174: Pacific Rim](https://darknetdiaries.com/episode/174/)
